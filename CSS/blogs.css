@@ -8,7 +8,7 @@ body {
 
 /* Style the header */
 .header {
-  background-image: url("/Images/img_avatar.png");
+  background-image: url("Images/sunrise.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
