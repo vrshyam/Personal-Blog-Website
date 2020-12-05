@@ -8,12 +8,12 @@ body {
 
 /* Style the header */
 .header {
-  background-image: href="Images\sunrise.jpg";
+  background-image: url('https://i.pinimg.com/originals/b4/c2/d7/b4c2d7c9fb28e69bff7ec8a1e37b8b42.jpg')
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   grid-area: header;
-  background-color: #f1f1f13d;
+  background-color: #3f1f1f3d;
   padding: 30px;
   text-align: center;
   font-size: 35px;
